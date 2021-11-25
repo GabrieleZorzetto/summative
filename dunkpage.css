@@ -4,3 +4,8 @@
 
 
 
+.nikedunkpanda-image{
+    width: 300px;
+    box-shadow: 0 0 30px -20px black ;
+    /* box-shadow: 0 0 30px -20px black , -200px  0 30px -20px red; */
+}

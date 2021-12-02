@@ -6,10 +6,8 @@ outline-color: black;
 }
 .dunklowpandahomepage{
 width: 300px;
-box-shadow: 0 0 100px -20px black ;
-    /* box-shadow: 0 0 30px -20px black , -200px  0 30px -20px red; */
-
-
+box-shadow: 0 0 150px -20px green ;
+    
 
 }
 h1{
@@ -17,4 +15,43 @@ outline-style: double; color: green;
 }
 body{
 background-color: orange;    
+}
+
+.nikedunklowpandawritten{
+
+color: green;
+
+
+}
+
+.jordanlowimg1{
+
+width: 300px;
+box-shadow: 0 0 150px -20px green ;
+
+
+}
+.jordanlowwritten{
+
+color: green;
+
+}
+
+
+
+.jordanhighimg1{
+
+width: 350px;
+
+
+box-shadow: 0 0 190px -20px green ;
+
+
+}
+
+.jordanhighwritten{
+
+color: green;
+
+
 }

@@ -1,6 +1,15 @@
-body{
+.body{
 
 background-color: orange;
 
+}
+
+h1{
+
+color: green;
+outline-style: double;
+
+
+outline-color: green;
 
 }

@@ -1,6 +1,11 @@
 
 
+h1{
+color: green;
+outline-style: double;
+outline-color: green;
 
+}
 
 
 
@@ -9,3 +14,11 @@
     box-shadow: 0 0 30px -20px black ;
     /* box-shadow: 0 0 30px -20px black , -200px  0 30px -20px red; */
 }
+body{
+
+background-color: orange;
+
+
+
+}
+

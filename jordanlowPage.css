@@ -1,0 +1,23 @@
+body{
+
+    background-color: orange;
+    
+    
+    
+    }
+    
+    
+    h1{
+    
+     color:green;
+    outline-style: double;
+    outline-color: green;
+    
+    }
+    img{
+    
+        width: 500px;
+        box-shadow: 0 0 150px -20px green ;
+    
+    
+    }
